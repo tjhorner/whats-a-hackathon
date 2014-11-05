@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:900,500,100,300,700,400);
+
+body{
+	margin: 0;
+	font-family: "Roboto";
+	text-align: center;
+	cursor: default;
+}
+
+div.skrollr{
+	position: absolute;
+	width: 100%;
+}
+
+h1, h2{
+	font-weight: 100;
+}
+
+.white{
+	color: rgb(255, 255, 255);
+}
+
+.green{
+	color: rgb(0, 255, 0);
+}
